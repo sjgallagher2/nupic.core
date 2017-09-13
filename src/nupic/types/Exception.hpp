@@ -41,21 +41,21 @@ namespace nupic
    *  The Exception class is the standard Numenta exception class.
    *  It is responsible for storing rich error information: 
    *  the filename and line number where the exceptional situation
-   *  occured and a message that describes the exception.
+   *  occurred and a message that describes the exception.
    *  
    * @b Rationale:
    *  It is important to store the location (filename, line number) where
-   *  an exception originated, but no standard excepton class does it.
+   *  an exception originated, but no standard exception class does it.
    *  The stack trace is even better and brings C++ programming to the
    *  ease of use of languages like Java and C#.
    *
    * @b Usage:
-   *  This class may be used directly by instatiating an instance
+   *  This class may be used directly by instantiating an instance
    *  and throwing it, but usually you will use the NTA_THROW macro
-   *  that makes it much simpler by automatically retreiving the __FILE__
+   *  that makes it much simpler by automatically retrieving the __FILE__
    *  and __LINE__ for you and also using a wrapping LogItem that allows 
    *  you to construct the exception message conveniently using the <<
-   *  streame operator (see nupic/utils/Log.hpp for further details).
+   *  stream operator (see nupic/utils/Log.hpp for further details).
    *
    * @b Notes:
    *  1. Exception is a subclass of the standard std::runtime_error. 

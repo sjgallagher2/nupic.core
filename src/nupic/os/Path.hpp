@@ -46,7 +46,7 @@ namespace nupic
    *  File system paths are used a lot. It makes sense to have 
    *  a cross-platform class with a nice interface tailored to our needs. 
    *  In particular operations throw NTA::Exception on failure and 
-   *  don't return error codes, which is alligned nicely with the
+   *  don't return error codes, which is aligned nicely with the
    *  way we handle errors.
    *
    *  Operations are both static and instance methods (use single implementation).

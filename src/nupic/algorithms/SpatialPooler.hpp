@@ -235,7 +235,7 @@ namespace nupic
                                   bool wrapAround=true);
 
           /**
-          This is the main workshorse method of the SpatialPooler class. This
+          This is the main workhorse method of the SpatialPooler class. This
           method takes an input vector and computes the set of output active
           columns. If 'learn' is set to True, this method also performs
           learning.
@@ -376,7 +376,7 @@ namespace nupic
           void setPotentialPct(Real potentialPct);
 
           /**
-          @returns boolen value of whether global inhibition is enabled.
+          @returns boolean value of whether global inhibition is enabled.
           */
           bool getGlobalInhibition() const;
 
