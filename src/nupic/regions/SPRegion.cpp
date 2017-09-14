@@ -65,7 +65,7 @@ namespace nupic {
 		// TODO
 	}
 
-	std::string SPRegion::executeCommand const std::vector<std::string>& args, Int64 index)
+	std::string SPRegion::executeCommand(const std::vector<std::string>& args, Int64 index)
 	{
 		// TODO
 	}

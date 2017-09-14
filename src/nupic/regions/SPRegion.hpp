@@ -34,8 +34,9 @@
 #include <capnp/any.h>
 
 #include <nupic/types/Types.hpp>
+#include <nupic/ntypes/Value.hpp>
 #include <nupic/engine/RegionImpl.hpp>
-#include <nupic/types/Serializable>
+#include <nupic/types/Serializable.hpp>
 #include <nupic/engine/Spec.hpp>
 
 namespace nupic {

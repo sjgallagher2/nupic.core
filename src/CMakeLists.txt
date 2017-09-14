@@ -353,6 +353,7 @@ set(src_nupiccore_srcs
     nupic/regions/VectorFile.cpp
     nupic/regions/VectorFileEffector.cpp
     nupic/regions/VectorFileSensor.cpp
+    nupic/regions/SPRegion.cpp
     nupic/types/BasicType.cpp
     nupic/types/Fraction.cpp
     nupic/utils/ArrayProtoUtils.cpp
@@ -588,7 +589,7 @@ add_custom_target(tests_unit
 # tests_all just calls other targets
 #
 # TODO This doesn't seem to have any effect; it's probably because the DEPENDS
-# of add_custom_target must be files, not other high-level targets. If really
+# on add_custom_target must be files, not other high-level targets. If really
 # need to run these tests during build, then either the individual
 # add_custom_target of the individual test runners should be declared with the
 # ALL option, or tests_all target whould be declared without DEPENDS, and
