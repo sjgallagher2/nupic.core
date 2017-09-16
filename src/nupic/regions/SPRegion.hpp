@@ -56,6 +56,25 @@ namespace nupic {
 	 * SPRegion is a C++ implementation of the python class. It is a region for computing the
 	 * spatial pooler output for a given input in the Network API. Each region is a node in
 	 * a network, created through a RegionImpl object.
+   *
+   * @params
+   * columnCount    Number of columns in the region, required
+   * inputWidth     Input width size, required parameter
+   * potentialRadius    Radius from column center of possible connections for synapses
+   * potentialPct   Percentage of possible connections a column will connect to
+   * globalInhibition   Boolean for whether or not global inhibition is to be used
+   * localAreaDensity   Desired maximum density of active columns in a neighborhood
+   * numActiveColumnsPerInhArea   Alternative to localAreaDensity, the top N columns in a neighborhood always selected
+   * stimulusThreshold    Minimum active synapses for a column to be ON
+   * synPermInactiveDec   Permanence decrement for inactive synapses
+   * synPermActiveInc   Permenence increment for active synapses
+   * synPermConnected   Permanence connection threshold for synapses
+   * minPctOverlapDutyCycles    Overlap duty cycle below which a column is boosted
+   * dutyCyclePeriod    Period of time used to calculate duty cycles
+   * boostStrength    Parameter to control boosting, no boosting = 0.0
+   * seed   Random number generator seed
+   * spVerbosity    Verbosity of the Spatial Pooler
+   * wrapAround   Boolean for column wrap around in potential radii
 	 */
 	class SPRegion: public RegionImpl {
 	public:
@@ -118,7 +137,25 @@ namespace nupic {
 		void setParameterFromBuffer(const std::string& name,
 									Int64 index,
 									IReadBuffer& value);
-		
+private:
+  UInt columnCount_;
+  UInt inputWidth_;
+  UInt potentialRadius_;
+  Real potentialPct_;
+  bool globalInhibition_;
+  UInt localAreaDensity_;
+  UInt numActiveColumnsPerInhArea_;
+  UInt stimulusThreshold_;
+  Real synPermInactiveDec_;
+  Real synPermActiveInc_;
+  Real synPermConnected_;
+  Real minPctOverlapDutyCycles_;
+  UInt dutyCyclePeriod_;
+  Real boostStrength_;
+  Real seed_;
+  UInt spVerbosity_;
+  bool wrapAround_;
+  
 	};
 
 } /* namespace nupic */

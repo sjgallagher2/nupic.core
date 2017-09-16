@@ -23,13 +23,27 @@
 #include "SPRegion.hpp"
 
 namespace nupic {
-
-	SPRegion::SPRegion(ValueMap& params, Region* region) 
-	{
-		RegionImpl(region); //Initialize with the RegionImpl constructor
-		
-	}
-
+	SPRegion::SPRegion(ValueMap& params, Region* region) : 
+  RegionImpl(region),
+  potentialRadius_(16),
+  potentialPct_(0.5),
+  globalInhibition_(true),
+  localAreaDensity_(-1.0),
+  numActiveColumnsPerInhArea_(10),
+  stimulusThreshold_(0),
+  synPermInactiveDec_(0.008),
+  synPermActiveInc_(0.05),
+  synPermConnected_(0.1),
+  minPctOverlapDutyCycles_(0.001),
+  dutyCyclePeriod_(1000),
+  boostStrength_(0.0),
+  seed_(1),
+  spVerbosity_(0),
+  wrapAround_(true)
+  {
+    columnCount_=params.getScalar("columnCount")->getValue<NTA_UInt32>();
+    inputWidth_ = params.getScalar("inputWidth")->getValue<NTA_UInt32>();
+  }
 	SPRegion::~SPRegion() 
 	{
 		// TODO
@@ -89,7 +103,7 @@ namespace nupic {
 		// TODO
 	}
 	
-	//Static function
+	/* Static */
 	Spec* SPRegion::createSpec()
 	{
 		// TODO
