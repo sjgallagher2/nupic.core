@@ -396,6 +396,7 @@ void VectorFileSensor::setParameterFromBuffer(const std::string& name,
 }
 
 //--------------------------------------------------------------------------------
+// TODO index parameter not used
 void VectorFileSensor::getParameterFromBuffer(const std::string& name,
                                               Int64 index,
                                               IWriteBuffer& value)

@@ -1,0 +1,13 @@
+# Target labels
+ ZStaticLib
+# Source files and their labels
+/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/ZStaticLib
+/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/ZStaticLib.rule
+/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/ZStaticLib-complete.rule
+/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/ZStaticLib/ZStaticLib-install.rule
+/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/ZStaticLib/ZStaticLib-mkdir.rule
+/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/ZStaticLib/ZStaticLib-download.rule
+/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/ZStaticLib/ZStaticLib-update.rule
+/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/ZStaticLib/ZStaticLib-patch.rule
+/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/ZStaticLib/ZStaticLib-configure.rule
+/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/ZStaticLib/ZStaticLib-build.rule

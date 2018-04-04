@@ -1,0 +1,2 @@
+gcc-ar qc libcapnp-bundle.a  CMakeFiles/capnp-bundle.dir/capnp-bundle_dummy.c++.o
+gcc-ranlib libcapnp-bundle.a

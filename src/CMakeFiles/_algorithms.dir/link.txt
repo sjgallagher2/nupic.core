@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC    -m64  -shared-libgcc  -static-libstdc++ -O2  -flto -Wl,--allow-shlib-undefined -Wl,--version-script=/home/sam/Documents/Devel/HTM/nupic.core/src/_algorithms_generated.expmap -shared  -o _algorithms.so CMakeFiles/_algorithms.dir/algorithmsPYTHON_wrap.cxx.o libnupic_core.a -lpthread -ldl 

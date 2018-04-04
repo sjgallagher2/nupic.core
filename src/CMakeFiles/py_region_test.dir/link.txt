@@ -1,0 +1,1 @@
+/usr/bin/c++       -m64  -shared-libgcc  -static-libstdc++ -Wl,--no-undefined -O2  -flto CMakeFiles/py_region_test.dir/test/integration/PyRegionTest.cpp.o  -o py_region_test -rdynamic libnupic_core.a /usr/lib/x86_64-linux-gnu/libpython2.7.so -lpthread -ldl 

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/AprUtil1StaticLib"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/AprUtil1StaticLib.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/AprUtil1StaticLib-complete.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/AprUtil1StaticLib/AprUtil1StaticLib-install.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/AprUtil1StaticLib/AprUtil1StaticLib-mkdir.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/AprUtil1StaticLib/AprUtil1StaticLib-download.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/AprUtil1StaticLib/AprUtil1StaticLib-update.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/AprUtil1StaticLib/AprUtil1StaticLib-patch.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/AprUtil1StaticLib/AprUtil1StaticLib-configure.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/AprUtil1StaticLib/AprUtil1StaticLib-build.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/AprUtil1StaticLib/AprUtil1StaticLib-patch_sources.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"AprUtil1StaticLib"
+		],
+		"name" : "AprUtil1StaticLib"
+	}
+}

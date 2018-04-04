@@ -1,0 +1,2 @@
+gcc-ar qc libgtest.a  CMakeFiles/gtest.dir/__/external/common/src/gtest/gtest-all.cpp.o
+gcc-ranlib libgtest.a

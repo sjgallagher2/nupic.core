@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/CapnProto"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/CapnProto.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/CapnProto-complete.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/CapnProto/CapnProto-install.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/CapnProto/CapnProto-mkdir.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/CapnProto/CapnProto-download.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/CapnProto/CapnProto-update.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/CapnProto/CapnProto-patch.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/CapnProto/CapnProto-configure.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/CapnProto/CapnProto-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"CapnProto"
+		],
+		"name" : "CapnProto"
+	}
+}

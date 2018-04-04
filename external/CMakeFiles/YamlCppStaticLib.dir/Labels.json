@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/YamlCppStaticLib"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/YamlCppStaticLib.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/YamlCppStaticLib-complete.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/YamlCppStaticLib/YamlCppStaticLib-install.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/YamlCppStaticLib/YamlCppStaticLib-mkdir.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/YamlCppStaticLib/YamlCppStaticLib-download.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/YamlCppStaticLib/YamlCppStaticLib-update.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/YamlCppStaticLib/YamlCppStaticLib-patch.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/YamlCppStaticLib/YamlCppStaticLib-configure.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/YamlCppStaticLib/YamlCppStaticLib-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"YamlCppStaticLib"
+		],
+		"name" : "YamlCppStaticLib"
+	}
+}

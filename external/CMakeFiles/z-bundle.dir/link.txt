@@ -1,0 +1,2 @@
+gcc-ar qc libz-bundle.a  CMakeFiles/z-bundle.dir/z-bundle_dummy.c++.o
+gcc-ranlib libz-bundle.a

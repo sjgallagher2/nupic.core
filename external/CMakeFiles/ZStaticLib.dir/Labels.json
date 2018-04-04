@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/ZStaticLib"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/ZStaticLib.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/ZStaticLib-complete.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/ZStaticLib/ZStaticLib-install.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/ZStaticLib/ZStaticLib-mkdir.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/ZStaticLib/ZStaticLib-download.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/ZStaticLib/ZStaticLib-update.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/ZStaticLib/ZStaticLib-patch.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/ZStaticLib/ZStaticLib-configure.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/ZStaticLib/ZStaticLib-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ZStaticLib"
+		],
+		"name" : "ZStaticLib"
+	}
+}

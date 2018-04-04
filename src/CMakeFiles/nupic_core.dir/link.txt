@@ -1,0 +1,2 @@
+gcc-ar qc libnupic_core.a  CMakeFiles/nupic_core.dir/nupic_core_dummy.c++.o
+gcc-ranlib libnupic_core.a

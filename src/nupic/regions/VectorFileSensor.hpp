@@ -282,9 +282,7 @@ namespace nupic
     void initialize() override;
 
     VectorFileSensor(const ValueMap & params, Region *region);
-
     VectorFileSensor(BundleIO& bundle, Region* region);
-
     VectorFileSensor(capnp::AnyPointer::Reader& proto, Region* region);
 
 

@@ -1,0 +1,2 @@
+gcc-ar qc libaprutil-1-bundle.a  CMakeFiles/aprutil-1-bundle.dir/aprutil-1-bundle_dummy.c++.o
+gcc-ranlib libaprutil-1-bundle.a

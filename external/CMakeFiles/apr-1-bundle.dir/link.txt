@@ -1,0 +1,2 @@
+gcc-ar qc libapr-1-bundle.a  CMakeFiles/apr-1-bundle.dir/apr-1-bundle_dummy.c++.o
+gcc-ranlib libapr-1-bundle.a

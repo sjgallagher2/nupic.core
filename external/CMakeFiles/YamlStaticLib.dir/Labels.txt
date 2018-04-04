@@ -1,0 +1,13 @@
+# Target labels
+ YamlStaticLib
+# Source files and their labels
+/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/YamlStaticLib
+/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/YamlStaticLib.rule
+/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/YamlStaticLib-complete.rule
+/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/YamlStaticLib/YamlStaticLib-install.rule
+/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/YamlStaticLib/YamlStaticLib-mkdir.rule
+/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/YamlStaticLib/YamlStaticLib-download.rule
+/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/YamlStaticLib/YamlStaticLib-update.rule
+/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/YamlStaticLib/YamlStaticLib-patch.rule
+/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/YamlStaticLib/YamlStaticLib-configure.rule
+/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/YamlStaticLib/YamlStaticLib-build.rule

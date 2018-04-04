@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/Swig"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/Swig.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/Swig-complete.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/Swig/Swig-install.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/Swig/Swig-mkdir.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/Swig/Swig-download.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/Swig/Swig-update.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/Swig/Swig-patch.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/Swig/Swig-configure.rule"
+		},
+		{
+			"file" : "/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/Swig/Swig-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Swig"
+		],
+		"name" : "Swig"
+	}
+}

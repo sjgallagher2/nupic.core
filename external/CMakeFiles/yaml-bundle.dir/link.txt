@@ -1,0 +1,2 @@
+gcc-ar qc libyaml-bundle.a  CMakeFiles/yaml-bundle.dir/yaml-bundle_dummy.c++.o
+gcc-ranlib libyaml-bundle.a

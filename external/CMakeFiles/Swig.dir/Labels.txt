@@ -1,0 +1,13 @@
+# Target labels
+ Swig
+# Source files and their labels
+/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/Swig
+/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/Swig.rule
+/home/sam/Documents/Devel/HTM/nupic.core/external/CMakeFiles/Swig-complete.rule
+/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/Swig/Swig-install.rule
+/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/Swig/Swig-mkdir.rule
+/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/Swig/Swig-download.rule
+/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/Swig/Swig-update.rule
+/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/Swig/Swig-patch.rule
+/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/Swig/Swig-configure.rule
+/home/sam/Documents/Devel/HTM/nupic.core/ThirdParty/Stamp/Swig/Swig-build.rule
